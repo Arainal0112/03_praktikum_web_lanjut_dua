@@ -48,7 +48,7 @@
               <div class="col-12">
                 <div class="post">
                   <div class="user-block">
-                    <img class="img-circle img-bordered-sm" src="../../dist/img/user1-128x128.jpg" alt="user image">
+                    <img class="img-circle img-bordered-sm" src="{{asset('AdminLTE-3.2.0')}}/dist/img/arainal.jpg" alt="user image">
                     <span class="username">
                       <a href="#">Arainal Aldiansyah</a>
                     </span>
@@ -56,9 +56,7 @@
                   </div>
                   <!-- /.user-block -->
                   <p>
-                    Lorem ipsum represents a long-held tradition for designers,
-                    typographers and the like. Some people hate it and argue for
-                    its demise, but others ignore.
+                    Saya bangga Kuliah di Polinema
                   </p>
                 </div>
 
@@ -78,7 +76,7 @@
 
                 <div class="post">
                   <div class="user-block">
-                    <img class="img-circle img-bordered-sm" src="../../dist/img/user1-128x128.jpg" alt="user image">
+                    <img class="img-circle img-bordered-sm" src="{{asset('AdminLTE-3.2.0')}}/dist/img/arainal.jpg" alt="user image">
                     <span class="username">
                       <a href="#">Arainal Aldiansyah</a>
                     </span>
@@ -86,9 +84,7 @@
                   </div>
                   <!-- /.user-block -->
                   <p>
-                    Lorem ipsum represents a long-held tradition for designers,
-                    typographers and the like. Some people hate it and argue for
-                    its demise, but others ignore.
+                    Pemrograman Web Lanjut menyenangkan
                   </p>
                 </div>
               </div>
