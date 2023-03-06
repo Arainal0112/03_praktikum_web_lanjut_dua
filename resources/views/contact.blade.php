@@ -41,12 +41,12 @@
                                         <h2 class="lead"><b>Arainal Aldiansyah</b></h2>
                                         <p class="text-muted text-sm"><b>About: </b> Mahasiswa </p>
                                         <ul class="ml-4 mb-0 fa-ul text-muted">
-                                            <li class="small"><span class="fa-li"><i class="fas fa-lg fa-building"></i></span> Address: Kediri, Indonesia</li>
-                                            <li class="small"><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span> Phone : +62</li>
+                                            <li class="small"><span class="fa-li"><i class="fas fa-lg fa-building"></i></span> Address: Ds. Pamongan Kec. Mojo Kab. Kediri Indonesia</li>
+                                            <li class="small"><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span> Phone : +6281391484458</li>
                                         </ul>
                                     </div>
                                     <div class="col-5 text-center">
-                                        <img src="../../dist/img/user1-128x128.jpg" alt="user-avatar" class="img-circle img-fluid">
+                                        <img src="{{asset('AdminLTE-3.2.0')}}/dist/img/arainal.jpg" alt="user-avatar" class="img-circle img-fluid">
                                     </div>
                                 </div>
                             </div>
