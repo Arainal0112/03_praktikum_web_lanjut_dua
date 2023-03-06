@@ -68,32 +68,31 @@
               <strong><i class="fas fa-book mr-1"></i> Tempat, Tanggal Lahir</strong>
 
               <p class="text-muted">
-                B.S. in Computer Science from the University of Tennessee at Knoxville
+                Kediri, 07 Oktober 2002
               </p>
 
               <hr>
 
               <strong><i class="fas fa-map-marker-alt mr-1"></i> Alamat</strong>
 
-              <p class="text-muted">Malibu, California</p>
+              <p class="text-muted">Perumahan Tugurejo Indah G-4 Ds.Tugurejo Kec.Ngasem Kab.Kediri Jawa Timur Indonesia</p>
 
               <hr>
 
               <strong><i class="fas fa-pencil-alt mr-1"></i> Skills</strong>
 
               <p class="text-muted">
-                <span class="tag tag-danger">UI Design</span>
-                <span class="tag tag-success">Coding</span>
-                <span class="tag tag-info">Javascript</span>
-                <span class="tag tag-warning">PHP</span>
-                <span class="tag tag-primary">Node.js</span>
+                <span class="tag tag-danger">Java,</span>
+                <span class="tag tag-success">PHP Laravel,</span>
+                <span class="tag tag-info">Frontend (HTML Javascript),</span>
+                <span class="tag tag-warning">Dart Flutter</span>
               </p>
 
               <hr>
 
               <strong><i class="far fa-file-alt mr-1"></i> Hobi</strong>
 
-              <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum enim neque.</p>
+              <p class="text-muted">Gacha, Game</p>
             </div>
             <!-- /.card-body -->
           </div>

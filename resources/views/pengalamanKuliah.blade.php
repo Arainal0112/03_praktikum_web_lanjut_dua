@@ -99,7 +99,7 @@
                 <a href="https://github.com/Elfeny7" class="btn-link text-secondary"></i> Ikmal : https://github.com/Elfeny7</a>
               </li>
               <li>
-                <a href="" class="btn-link text-secondary"></i> Arainal : </a>
+                <a href="https://github.com/Arainal0112" class="btn-link text-secondary"></i> Arainal : https://github.com/Arainal0112</a>
               </li>
             </ul>
           </div>
