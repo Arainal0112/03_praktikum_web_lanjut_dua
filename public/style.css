@@ -1,3 +1,9 @@
+@font-face {
+    font-family: wicked;
+    src: url('font/WickedMouse.ttf');
+}
 #selamatdatang {
-    margin: 200px auto 200px auto;
+    font-family: wicked;
+    font-size: 80px;
+    margin: 100px auto 100px auto;
 }
