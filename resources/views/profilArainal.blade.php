@@ -3,7 +3,7 @@
 @section('title', 'Profil Arainal')
 
 @section('content')
-<x-sidebar dashboard="" profil="active" ikmal="active" arainal="" pengalaman="" />
+<x-sidebar dashboard="" profil="active" ikmal="" arainal="active" pengalaman="" />
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
   <!-- Content Header (Page header) -->
